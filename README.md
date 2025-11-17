@@ -1,2 +1,2 @@
-# lab-freeze-control
-Initial setup file
+# Lab Freeze Control Project
+Full project setup.
